@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @s-suraj-08
-- 👀 I’m interested in Image Processing, Data analysis, Artificial Intelligence and Animation engines.
+- 👀 I’m interested in Image Processing, Computer Vision, and Artificial Intelligence.
 - 🌱 I’m currently learning Visual Computing at Saarland University. I am learning Python, MATLAB, C, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -"suraj.kns@gmail.com"
